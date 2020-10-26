@@ -64,6 +64,9 @@ Analysis is impossible without access to good data, so creating data pipelines i
 
 ### Challenge Outputs:
 
-- Challenge automated Pipeline Python script[challenge.py](/challenge.py)
+1. The functions convert the Wikipedia JSON file, Kaggle metadata file, and MovieLens ratings data file to a Pandas DataFrame and, the DataFrame is displayed in the ETL_function_test.ipynb file
+  -Jupyter NoteBooks [ETL_function_test](ETL_function_test.ipynb) and Python script[challenge.py](Pyscirpt/ETL_function_test.py)
+
+- Challenge automated Pipeline 
 
 - Challenge automated Pipeline Jupyter NoteBooks [challenge.ipynb](/challenge.ipynb)
