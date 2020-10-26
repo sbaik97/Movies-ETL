@@ -64,9 +64,9 @@ Analysis is impossible without access to good data, so creating data pipelines i
 
 ### Challenge Outputs:
 
-1. The functions convert the Wikipedia JSON file, Kaggle metadata file, and MovieLens ratings data file to a Pandas DataFrame and, the DataFrame is displayed in the ETL_function_test.ipynb file
-  -Jupyter NoteBooks [ETL_function_test](ETL_function_test.ipynb) and Python script[challenge.py](Pyscirpt/ETL_function_test.py)
+1. The functions convert the Wikipedia JSON file, Kaggle metadata file, and MovieLens ratings data file to a Pandas DataFrame and, the DataFrame is displayed in the 
+  -Jupyter NoteBooks [ETL_function_test.ipynb](ETL_function_test.ipynb) and Python script[challenge.py](Pyscirpt/ETL_function_test.py)
 
-- Challenge automated Pipeline 
+2. The Wikipedia raw data is cleaned and converted to a Pandas DataFrame, and the DataFrame is displayed in the -Jupyter NoteBooks [ETL_clean_wiki_movies.ipynb](ETL_clean_wiki_movies.ipynb) and Python script[ETL_clean_wiki_movies.py](Pyscirpt/ETL_clean_wiki_movies.py)
 
 - Challenge automated Pipeline Jupyter NoteBooks [challenge.ipynb](/challenge.ipynb)
