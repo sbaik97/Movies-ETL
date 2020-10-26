@@ -50,6 +50,7 @@ Analysis is impossible without access to good data, so creating data pipelines i
   
 ![realeasedate_comparison](Resources/realeasedate_comparison.PNG)
 
+### The detail can be found at the following files
 
 - ETL jupyter notebooks [movies_ETL.ipynb](movie_ETL_process.ipynb)
 - ETL Pyscipt [movie_ETL_process.py](Pyscirpt/movie_ETL_process.py)
