@@ -20,7 +20,6 @@ Analysis is impossible without access to good data, so creating data pipelines i
 
 - an web-scraped JSON file of over 5,000 movies from 1990 to 2019, from wikipedia [wikipedia.movies.json](Resources/wikipedia_movies.json)
 
-
 - a csv file from Kaggle [movies_metadata.csv](Resources/movies_metadata_small.csv)
 
 - a csv file from MovieLens with movie rating information [movies_metadata.csv](Resources/ratings_small.csv)
@@ -34,6 +33,17 @@ Analysis is impossible without access to good data, so creating data pipelines i
 
 # Challenge
 
+### Background
+
+ - We will create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables, and refactor the code from this module to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
+
+
+### Four technical analysis deliverables. 
+
+- 1. Write an ETL Function to Read Three Data Files
+- 2. Extract and Transform the Wikipedia Data
+- 3. Extract and Transform the Kaggle data
+- 4. Create the Movie Database
 
 
 ### Challenge Outputs:
