@@ -31,9 +31,11 @@ Analysis is impossible without access to good data, so creating data pipelines i
 ### Major Outputs:
  - Clean movie dataframe
  
-![clean_wiki_movie](Resources/clean_wiki_movie.PNG)
+![cleaned_wiki_movie](Resources/cleaned_wiki_movie.PNG)
 
-- 
+ - Clean Kaggle metadata
+ 
+![Cleaned_kaggle_data](Resources/Cleaned_kaggle_data.PNG)
 
 - Data comparison between wiki and Kaggle data by scatter plots
   - running_time
