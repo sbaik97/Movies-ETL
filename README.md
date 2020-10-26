@@ -38,7 +38,7 @@ Analysis is impossible without access to good data, so creating data pipelines i
  - We will create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables, and refactor the code from this module to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
 
 
-### Four technical analysis deliverables. 
+### Four technical analysis . 
 
 - 1. Write an ETL Function to Read Three Data Files
 - 2. Extract and Transform the Wikipedia Data
