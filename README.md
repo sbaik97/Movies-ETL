@@ -35,7 +35,7 @@ Analysis is impossible without access to good data, so creating data pipelines i
 
  - Clean Kaggle metadata
  
-![Cleaned_kaggle_data](Resources/Cleaned_kaggle_data.PNG)
+![cleaned_kaggle_data](Resources/cleaned_kaggle_data.PNG)
 
 - Data comparison between wiki and Kaggle data by scatter plots
   - running_time
