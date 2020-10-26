@@ -2,7 +2,11 @@
 Extract, Transform, and Load the movie files
 
 ### Background
-Analysis is impossible without access to good data, so creating data pipelines is the first step before any analysis can be performed. Herein, we extract, transform and load (ETL) from Wikipedia(JSON format), Kaggle(csv file) MovieLens_Ratings (csv file) into PostgreSQL,to create data pipelines using python and pandas.
+- ETL stands for Extract, Transform, Load; it is a process for collecting, cleaning, and saving data. The Extract step reads data from disparate data sources, while the Transform step converts the data into a useful format, and the Load step writes that data into the target database or data warehouse. 
+- Regular expressions are a sequence of specific characters that help match or find other strings, or sets of strings, using specialized syntax. Often shortened to "RegEx," they can be used with the Python package "re."
+- A lambda function is a short, anonymous function; it can take any number of arguments but only has one expression.
+
+- Herein, we extract, transform and load (ETL) from Wikipedia(JSON format), Kaggle(csv file) MovieLens_Ratings (csv file) into PostgreSQL,to create data pipelines using python and pandas.
 
 ### Goals:
 
