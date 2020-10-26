@@ -64,9 +64,12 @@ Analysis is impossible without access to good data, so creating data pipelines i
 
 ### Challenge Outputs:
 
-1. The functions convert the Wikipedia JSON file, Kaggle metadata file, and MovieLens ratings data file to a Pandas DataFrame and, the DataFrame is displayed in the 
+1. The functions convert the Wikipedia JSON file, Kaggle metadata file, and MovieLens ratings data file to a Pandas DataFrame and, the DataFrame is displayed in 
   -Jupyter NoteBooks [ETL_function_test.ipynb](ETL_function_test.ipynb) and Python script[challenge.py](Pyscirpt/ETL_function_test.py)
 
-2. The Wikipedia raw data is cleaned and converted to a Pandas DataFrame, and the DataFrame is displayed in the -Jupyter NoteBooks [ETL_clean_wiki_movies.ipynb](ETL_clean_wiki_movies.ipynb) and Python script[ETL_clean_wiki_movies.py](Pyscirpt/ETL_clean_wiki_movies.py)
+2. The Wikipedia raw data is cleaned and converted to a Pandas DataFrame, and the DataFrame is displayed in  -Jupyter NoteBooks [ETL_clean_wiki_movies.ipynb](ETL_clean_wiki_movies.ipynb) and Python script[ETL_clean_wiki_movies.py](Pyscirpt/ETL_clean_wiki_movies.py)
 
-- Challenge automated Pipeline Jupyter NoteBooks [challenge.ipynb](/challenge.ipynb)
+3. The Kaggle metadata is cleaned and merged with Wikipedia and Kaggle DataFrames, and the movies_with_ratings_df and the movies_df DataFrames are displayed in -   -Jupyter NoteBooks [ETL_clean_kaggle_data.ipynb](ETL_clean_kaggle_data.ipynb) and Python script[ETL_clean_kaggle_data.py](Pyscirpt/ETL_clean_kaggle_data.py)
+
+4. Uploade the movies_df DataFrame and MovieLens rating CSV data to a SQL database and prints out the elapsed time to import each row.The fuction code and elapsed-time to add the data to the database is displayed in Jupyter NoteBooks [ETL_create_database.ipynb](ETL_create_database.ipynb) and Python script[ETL_clean_kaggle_data.py](Pyscirpt/ETL_clean_kaggle_data.py)
+
