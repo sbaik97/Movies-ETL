@@ -4,8 +4,6 @@ Extract, Transform, and Load the movie files
 ### Background
 Analysis is impossible without access to good data, so creating data pipelines is the first step before any analysis can be performed. Herein, we extract, transform and load (ETL) from Wikipedia(JSON format), Kaggle(csv file) MovieLens_Ratings (csv file) into PostgreSQL,to create data pipelines using python and pandas.
 
-![ETL process.PNG](Resources/ETL_process.PNG)
-
 ### Goals:
 
 - Create an automated ETL pipeline.
@@ -29,15 +27,8 @@ Analysis is impossible without access to good data, so creating data pipelines i
 
 
 ### Major Outputs:
- - Clean movie dataframe
- 
-![cleaned_wiki_movie](Resources/cleaned_wiki_movie.PNG)
 
- - Clean Kaggle metadata
- 
-![cleaned_kaggle_data](Resources/cleaned_kaggle_data.PNG)
-
-- Data comparison between wiki and Kaggle data by scatter plots
+- Clean and data comparison between wiki and Kaggle data by scatter plots
   - running_time
   
 ![running_time_comparision](Resources/running_time_comparision.PNG)
@@ -46,14 +37,7 @@ Analysis is impossible without access to good data, so creating data pipelines i
   
 ![budget_comparision](Resources/budget_comparision.PNG)
 
-  - box_office
   
-![boxoffice_comparision](Resources/boxoffice_comparision.PNG)
-
-  - Release Date
-  
-![realeasedate_comparison](Resources/realeasedate_comparison.PNG)
-
 - Merge, drop, and rename the movie file
 
 ![merge_drop_rename](Resources/merge_drop_rename.PNG)
