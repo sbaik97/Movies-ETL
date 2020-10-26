@@ -33,6 +33,8 @@ Analysis is impossible without access to good data, so creating data pipelines i
  
 ![clean_wiki_movie](Resources/clean_wiki_movie.PNG)
 
+- 
+
 - Data comparison between wiki and Kaggle data by scatter plots
   - running_time
   
@@ -50,7 +52,9 @@ Analysis is impossible without access to good data, so creating data pipelines i
   
 ![realeasedate_comparison](Resources/realeasedate_comparison.PNG)
 
-### The detail can be found at the following files
+- Merge, drop, and rename the movie file
+
+### The details can be found at the following files
 
 - ETL jupyter notebooks [movies_ETL.ipynb](movie_ETL_process.ipynb)
 - ETL Pyscipt [movie_ETL_process.py](Pyscirpt/movie_ETL_process.py)
