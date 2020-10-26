@@ -11,7 +11,7 @@ Analysis is impossible without access to good data, so creating data pipelines i
 
 - a csv file from Kaggle [movies_metadata.csv](Resources/movies_metadata.csv)
 
-- a csv file from MovieLens with movie rating information [movies_metadata.csv](Resources/ratings.csv)
+- a csv file from MovieLens with movie rating information [movies_metadata.csv](Resources/ratings_small.csv)
 
 
 
