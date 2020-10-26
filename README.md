@@ -29,9 +29,8 @@ Analysis is impossible without access to good data, so creating data pipelines i
 
 ### Outputs:
 
-
 - ETL jupyter notebooks [movies_ETL.ipynb](movie_ETL_process.ipynb)
-
+- EPyscipt [movies_ETL.ipynb](movie_ETL_process.ipynb)
 
 # Challenge
 
