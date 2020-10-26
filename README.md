@@ -54,6 +54,8 @@ Analysis is impossible without access to good data, so creating data pipelines i
 
 - Merge, drop, and rename the movie file
 
+![merge_drop_rename](Resources/merge_drop_rename.PNG)
+
 ### The details can be found at the following files
 
 - ETL jupyter notebooks [movies_ETL.ipynb](movie_ETL_process.ipynb)
