@@ -4,6 +4,8 @@ Extract, Transform, and Load the movie files
 ### Background
 Analysis is impossible without access to good data, so creating data pipelines is the first step before any analysis can be performed. Herein, we extract, transform and load (ETL) from Wikipedia(JSON format), Kaggle(csv file) MovieLens_Ratings (csv file) into PostgreSQL,to create data pipelines using python and pandas.
 
+![ETL process.PNG](Resources/ETL process.PNG)
+
 ### Goals:
 
 - Create an automated ETL pipeline.
