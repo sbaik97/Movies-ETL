@@ -30,7 +30,7 @@ Analysis is impossible without access to good data, so creating data pipelines i
 ### Outputs:
 
 
-- ETL Jupyter NoteBooks [movies_ETL.ipynb](/movies_ETL.ipynb)
+- ETL Jupyter NoteBooks [movies_ETL.ipynb](movie_ETL_process.ipynb)
 
 
 # Challenge
