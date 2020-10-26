@@ -6,7 +6,8 @@ Analysis is impossible without access to good data, so creating data pipelines i
 
 ### Resources:
 
-- an web-scraped JSON file of over 5,000 movies from 1990 to 2019, from wikipedia [wikipedia.movies.json](Resources/wikipedia.movies.json)
+- an web-scraped JSON file of over 5,000 movies from 1990 to 2019, from wikipedia [wikipedia.movies.json](Resources/wikipedia_movies.json)
+
 
 - a csv file from Kaggle [movies_metadata.csv](Resources/movies_metadata.csv)
 
