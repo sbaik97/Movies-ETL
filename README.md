@@ -38,6 +38,18 @@ Analysis is impossible without access to good data, so creating data pipelines i
   
 ![running_time_comparision](Resources/running_time_comparision.PNG)
 
+  - budget
+  
+![budget_comparision](Resources/budget_comparision.PNG)
+
+  - box_office
+  
+![boxoffice_comparision](Resources/boxoffice_comparision.PNG)
+
+  - Release Date
+  
+![realeasedate_comparison](Resources/realeasedate_comparison.PNG)
+
 
 - ETL jupyter notebooks [movies_ETL.ipynb](movie_ETL_process.ipynb)
 - ETL Pyscipt [movie_ETL_process.py](Pyscirpt/movie_ETL_process.py)
