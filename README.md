@@ -59,7 +59,7 @@ Analysis is impossible without access to good data, so creating data pipelines i
 * Write a function that reads in the three data files and creates three separate DataFrames using Python, Pandas, the ETL process, and code refactoring.
 * Write a function that extracts and transforms the Wikipedia data so you can merge it with the Kaggle metadata.
 * Write a function that extracts and transforms the Kaggle metadata and MovieLens rating data, then convert the transformed data into separate DataFrames.
-* Write a function that loads the movies_df DataFrame and MovieLens rating CSV data to a SQL database
+* Write a function that uploads the movies_df DataFrame and MovieLens rating CSV data to a SQL database
 
 
 ### Challenge Outputs:
