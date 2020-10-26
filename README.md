@@ -90,7 +90,7 @@ Extract, Transform, and Load the movie files
 ![elapsed_time.PNG](Resources/elapsed_time.PNG)
 
 
-Conclusions
-- creating a function is more effective way to extract, transform and load process to a PostgreSQL database for large datafile.
+### Conclusions
+- Creating a function is more effective way to extract, transform and load process to a PostgreSQL database for large datafile.
 - From ETL process we can collect, clean, and uploade the data into the sql server. Importing a rating data takes quite a long time (3572.5107519626617 seconds) and  it's helpful to see the time information.
 
