@@ -87,7 +87,7 @@ Extract, Transform, and Load the movie files
 
 - Elapsed time to add the data to the database
 
-![elapsed_time.PNG](Resources/elapsed_time.PNG)
+![elapsed_time.PNG](Resources/)
 
 
 ### Conclusions
